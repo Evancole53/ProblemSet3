@@ -1,0 +1,19 @@
+header {
+    background-image: url("Background.gif");
+    font-family: 'Arial';font-size: 50px;
+    color: #0a3bed;
+    padding: 20px;
+  }
+  
+  body {
+      background-color: #0a3bed;
+      margin: 0;
+      padding: 0;
+    }
+    main {
+        background-color: #0f16fa;
+        color: rgb(167, 160, 160);
+        font-family: 'Arial';font-size: 30px;
+        padding: 20px;
+        opacity: 0.8;
+      }
